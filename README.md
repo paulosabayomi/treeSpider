@@ -6,6 +6,14 @@
 
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
+<p align="center">
+  <a href="https://github.com/paulosabayomi/treeSpider/blob/main/LICENSE"><img src="https://img.shields.io/github/license/paulosabayomi/treeSpider?style=flat-square" alt="MIT License" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square" alt="Language" /></a>
+  <a href="https://github.com/paulosabayomi/treeSpider/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/paulosabayomi/treeSpider/actions/workflows/package.yml"><img src="https://github.com/paulosabayomi/treeSpider/actions/workflows/package.yml/badge.svg" alt="Package" /></a>
+  <a href="https://github.com/paulosabayomi/treeSpider/actions/workflows/npm-publish.yml"><img src="https://github.com/paulosabayomi/treeSpider/actions/workflows/npm-publish.yml/badge.svg" alt="Publish to npm" /></a>
+  <a href="https://github.com/paulosabayomi/treeSpider/actions/workflows/tests.yml"><img src="https://github.com/paulosabayomi/treeSpider/actions/workflows/tests.yml/badge.svg" alt="Tests" /></a>
+</p>
 <!-- [END BADGES] -->
 
 Display your organization structure in style, personalize and use the chart type of your choice and that fits your organization, and more. Built with D3js and TypeScript.
